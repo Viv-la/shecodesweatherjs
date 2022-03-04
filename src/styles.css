@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+}
+.li {
+  color: #70757a;
+  font-size: 12px;
+  line-height: 16px;
+  padding-left: 9px;
+  padding-top: 6px;
+}
+
+.body {
+  font-family: arial, sans-serif;
+  border: 1px solid;
+}
+.weatherfeatures,
+.units {
+  list-style: none;
+}
+
+#weather-unit {
+  font-size: 50px;
+  font-weight: 100px;
+}
+
+.weather-app {
+  border: 1px solid #dadde1;
+  border-radius: 4px;
+  padding: 15px;
+  margin: 20px auto;
+  max-width: 600px;
+}
+.search-button {
+  padding: 20px;
+  margin: auto;
+}
